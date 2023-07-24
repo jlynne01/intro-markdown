@@ -34,4 +34,7 @@ Another way to add __HORIZONTAL RULES__ in our document is by using three unders
 
 ___
 
+<!--ESCAPE Character Rule using Backslash-->
+
+This is an example of a *text with an asterisk*. When we don't want it to be italicized. We want to use the backslash to escape the rule of using an opening \*asterisk* and closing \*astersik*
 
