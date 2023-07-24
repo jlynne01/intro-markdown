@@ -57,3 +57,46 @@ ___
 __NOTE__! We can add a balloon tip description to our link by using double quotes after the link to the resource.
 
 [Cute Dog](https://images.pexels.com/photos/5122188/pexels-photo-5122188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1/ "This is a Pexel Photo")
+
+___
+
+<!--List Item Rules-->
+
+<!--UNORDERED LISTS-->
+
+* Item 1 - This is going to be our list item 1
+  * This is our list item 1 child item 1
+  * This is our list item 1 child item 2
+* Item 2 - This is going to be our list item 2
+  * This is our list item 2 child item 2
+  * This is our list item 2 child item 2
+* Item 3 - This is going to be our list item 3
+  * This is our list item 3 child item 3
+* Item 4 - This is going to be our list item 4
+  * This is our list item 4 child item 4
+ 
+<!--ORDERED LISTS-->
+
+1. Item 1 - This is going to be our list item 1
+   
+    1.1 This is our list item 1 child item 1
+   
+    1.2 This is our list item 1 child item 2
+   
+2. Item 2 - This is going to be our list item 2
+   
+    2.1 This is our list item 2 child item 1
+
+    2.2 This is our list item 2 child item 2
+  
+3. Item 3 - This is going to be our list item 3
+   
+    3.1 This is our list item 3 child item 1
+
+    3.2 This is our list item 3 child item 2
+    
+4. Item 4 - This is going to be our list item 4
+   
+    4.1 This is our list item 4 child item 1
+
+    4.2 This is our list item 4 child item 2
