@@ -17,3 +17,15 @@ _This is going to be a paragraph that is using italic styling_
 *This is going to be a paragraph that is using italic styling*
 
 ---
+
+<!--Strong-->
+This is an example of **strong text**, anything between the two opening asterisk and two closing asterisk will be displayed as strong text
+
+This is another example way to have a __strong text__ in our document. Anything between the two double opening underscore and two double closing underscore will be displayed as __strong text__
+
+<!--Strike Through-->
+This is an example of a ~~strike through~~ text, anything in between the double tilde opening characters and closing double tilde characters will be displayed as ~~strike through~~ text
+
+<!--Horizontal Rule-->
+
+
