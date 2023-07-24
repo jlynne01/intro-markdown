@@ -28,4 +28,10 @@ This is an example of a ~~strike through~~ text, anything in between the double 
 
 <!--Horizontal Rule-->
 
+We can add triple hyphens to be able to create a horizontal rule for separating content.
+
+Another way to add __HORIZONTAL RULES__ in our document is by using three underscores.
+
+___
+
 
