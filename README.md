@@ -100,3 +100,19 @@ ___
     4.1 This is our list item 4 child item 1
 
     4.2 This is our list item 4 child item 2
+
+
+<!--Code Block Inline Example Rule-->
+
+**NOTE**: *__Backtics__ will allow us to show the block or paragraph tags in this example. It is located below the tilde character and on top of the tab key*
+
+`<p>This is a paragraph tag with an inline code block example opening and closing tags</p> `
+
+---
+
+<!--IMAGE rule-->
+
+
+![This is an image](https://images.pexels.com/photos/911806/pexels-photo-911806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Link to a dog image")
+
+---
