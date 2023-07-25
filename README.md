@@ -116,3 +116,40 @@ ___
 ![This is an image](https://images.pexels.com/photos/911806/pexels-photo-911806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Link to a dog image")
 
 ---
+
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
+
+<!--CODE BLOCKS FOR GITHUB DOCUMENTATION-->
+
+```install npm
+npm install
+
+npm start
+```
+
+---
+
+**NOTE**: You can specify some syntax code blocks for differente languages
+
+```javascript
+function tesAdd(num1, num2){
+  return numq + num2;
+}
+```
+```python
+def pythonAdd(num1,num2):
+  return num1 + num2;
+```
+```C#
+public static int Sum(int num1, int num2)
+{
+ int total;
+ total = num2 + num2;
+ return total;
+}
+```
+ 
+
+
+
+
