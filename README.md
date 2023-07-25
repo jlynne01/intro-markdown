@@ -149,7 +149,18 @@ public static int Sum(int num1, int num2)
 }
 ```
  
+<!Table Rules-->
+
+| Name | Nickname | Email          |
+|------|----------|----------------|
+| John | Jo       |john@gmail.com  |
+| Rod  | Elicid   |testCi@gmail.com|
 
 
+---
+<!--Tasks Lists-->
 
-
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
+* [ ] Task 4
